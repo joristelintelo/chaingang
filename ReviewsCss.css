@@ -1,0 +1,54 @@
+body
+{
+    font-family: Arial;
+}
+
+#container
+{
+    width: 480px;
+    height: 480px;
+    background-color: red;
+}
+
+#review1Vak
+{
+    width: 480px;
+    height: 160px;
+    background-color: green;
+    float: left;
+}
+
+#review2Vak
+{
+    width: 480px;
+    height: 160px;
+    background-color: yellow;
+    float: left;
+}
+
+#review3Vak
+{
+    width: 480px;
+    height: 160px;
+    background-color: blue;
+    float: left;
+}
+
+.naamEnAchternaam
+{
+    margin: 0px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.Review
+{
+    padding-left: 10px;
+    font-size: 12px;
+}
+
+.email
+{
+    margin: 0px;
+
+}

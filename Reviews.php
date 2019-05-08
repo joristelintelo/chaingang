@@ -7,42 +7,29 @@
 
     <meta charset="utf-8">
     <title>Reviews</title>
+    <link rel="stylesheet" type="text/css" href="ReviewsCss.css">
 
 </head>
 
 <body>
 
-<h2>Reviews</h2>
+<div id="container">
+    <div id="review1Vak">
+    <h2 class="naamEnAchternaam">Naam Achternaam</h2>
+    <p class="Review">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ornare tincidunt tristique. Proin blandit vitae diam
+        at viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</p>
+    <p class="email">naamachternaam@email.com</p>
+    </div>
+    <div id="review2Vak">
 
-<hr>
 
-<h3>Naam Achternaam</h3>
-<P>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dictum vulputate metus, vitae interdum quam fringilla a.
-    Donec elementum accumsan tempus. Sed a malesuada felis. Aliquam erat volutpat. Donec sed vulputate mauris. Quisque maximus
-    scelerisque quam ut dictum. Fusce et eros mi. Mauris vestibulum scelerisque felis, non vestibulum dolor vestibulum ac.
-</P>
-<h3>Cijfer: 9</h3>
+    </div>
+    <div id="review3Vak">
 
-<hr>
 
-<h3>Naam Achternaam</h3>
-<P>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dictum vulputate metus, vitae interdum quam fringilla a.
-    Donec elementum accumsan tempus. Sed a malesuada felis. Aliquam erat volutpat. Donec sed vulputate mauris. Quisque maximus
-    scelerisque quam ut dictum. Fusce et eros mi. Mauris vestibulum scelerisque felis, non vestibulum dolor vestibulum ac.
-</P>
-<h3>Cijfer: 8</h3>
+    </div>
 
-<hr>
-
-<h3>Naam Achternaam</h3>
-<P>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dictum vulputate metus, vitae interdum quam fringilla a.
-    Donec elementum accumsan tempus. Sed a malesuada felis. Aliquam erat volutpat. Donec sed vulputate mauris. Quisque maximus
-    scelerisque quam ut dictum. Fusce et eros mi. Mauris vestibulum scelerisque felis, non vestibulum dolor vestibulum ac.
-</P>
-<h3>Cijfer: 10</h3>
+</div>
 
 </body>
 
