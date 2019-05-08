@@ -7,14 +7,14 @@ body
 {
     width: 480px;
     height: 480px;
-    background-color: red;
+    background-color: white;
 }
 
 #review1Vak
 {
     width: 480px;
     height: 160px;
-    background-color: green;
+    background-color: white;
     float: left;
 }
 
@@ -22,7 +22,7 @@ body
 {
     width: 480px;
     height: 160px;
-    background-color: yellow;
+    background-color: whitesmoke;
     float: left;
 }
 
@@ -30,13 +30,13 @@ body
 {
     width: 480px;
     height: 160px;
-    background-color: blue;
+    background-color: white;
     float: left;
 }
 
 .naamEnAchternaam
 {
-    margin: 0px;
+    margin: 0;
     padding-left: 10px;
     padding-top: 10px;
 }
@@ -45,10 +45,13 @@ body
 {
     padding-left: 10px;
     font-size: 12px;
+    margin: 3px;
 }
 
 .email
 {
-    margin: 0px;
+    margin: 0;
+    padding-left: 10px;
+    padding-bottom: 10px;
 
 }
