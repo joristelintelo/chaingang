@@ -60,7 +60,7 @@ require_once("includes/database.php");
 
         <div class="col-lg-3">
 
-            <h3 class="my-4"><img src="http://rijwielw-2.rijwielwebshop.nl/wp-content/uploads/2017/03/Fluit-logo.jpg" height="150" width="250" </h3>
+            <h5 class="my-4"><img src="http://rijwielw-2.rijwielwebshop.nl/wp-content/uploads/2017/03/Fluit-logo.jpg" height="150" width="250" </h5>
             <div class="list-group">
                 <a href="#" class="list-group-item">Mannenfietsen</a>
                 <a href="#" class="list-group-item">Vrouwenfietsen</a>
