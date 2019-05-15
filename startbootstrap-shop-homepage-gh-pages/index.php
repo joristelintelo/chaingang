@@ -28,7 +28,7 @@ require_once("includes/database.php");
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
-        <a class="navbar-brand" href="#">*logo*</a>
+        <a class="navbar-brand" href="#">Chain Gang</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -60,7 +60,7 @@ require_once("includes/database.php");
 
         <div class="col-lg-3">
 
-            <h1 class="my-4">Chain Gang</h1>
+            <h3 class="my-4"><img src="http://rijwielw-2.rijwielwebshop.nl/wp-content/uploads/2017/03/Fluit-logo.jpg" height="150" width="250" </h3>
             <div class="list-group">
                 <a href="#" class="list-group-item">Mannenfietsen</a>
                 <a href="#" class="list-group-item">Vrouwenfietsen</a>
@@ -213,7 +213,7 @@ require_once("includes/database.php");
 <!-- Footer -->
 <footer class="py-5 bg-dark">
     <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2019</p>
+        <p class="m-0 text-center text-white">Copyright &copy; Chain Gang Gang 2019</p>
     </div>
     <!-- /.container -->
 </footer>
