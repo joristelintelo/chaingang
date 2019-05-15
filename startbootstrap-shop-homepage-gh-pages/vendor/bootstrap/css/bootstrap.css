@@ -5344,7 +5344,7 @@ a.badge-dark:hover, a.badge-dark:focus {
   display: block;
   padding: 0.75rem 1.25rem;
   margin-bottom: -1px;
-  background-color: #fff;
+  background-color: #3399cc;
   border: 1px solid rgba(0, 0, 0, 0.125);
 }
 
@@ -6452,7 +6452,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #343a40 !important;
+  background-color: #3399cc !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
