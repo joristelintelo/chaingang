@@ -80,13 +80,13 @@ require_once("includes/database.php");
                 </ol>
                 <div class="carousel-inner" role="listbox">
                     <div class="carousel-item active">
-                        <img class="d-block img-fluid" src="http://placehold.it/900x350" alt="First slide">
+                        <img class="d-block img-fluid" src="https://static.webshopapp.com/shops/029847/files/182875082/swing.png" alt="First slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block img-fluid" src="http://placehold.it/900x350" alt="Second slide">
+                        <img class="d-block img-fluid" src="https://www.visitvalsugana.it/images/scopri_la_valsugana2017/bike/visitvalsugana_testata_mtb2019.jpg" alt="Second slide">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block img-fluid" src="http://placehold.it/900x350" alt="Third slide">
+                        <img class="d-block img-fluid" src="https://www.vermarcsport.com/cache/made/files/products/Prof_Kledij/2019/Telenet_Fidea/GettyImages-1080001294_copy_1900_700_80_s_c1.jpg" alt="Third slide">
                     </div>
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
