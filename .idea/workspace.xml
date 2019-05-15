@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb6f3559-d976-47db-a025-7529f3901d79" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/startbootstrap-shop-homepage-gh-pages/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/startbootstrap-shop-homepage-gh-pages/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startbootstrap-shop-item-gh-pages/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/startbootstrap-shop-item-gh-pages/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,33 +20,42 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="php" value="6" />
+          <entry key="php" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PHP" value="6" />
+          <entry key="PHP" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="php" value="200" />
+          <entry key="php" value="303" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PHP" value="200" />
+          <entry key="PHP" value="303" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/startbootstrap-shop-homepage-gh-pages/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="-306">
               <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/startbootstrap-shop-item-gh-pages/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="65" column="65" selection-start-line="65" selection-start-column="65" selection-end-line="65" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -67,8 +76,8 @@
         <option value="$PROJECT_DIR$/startbootstrap-shop-homepage-gh-pages/index.html" />
         <option value="$PROJECT_DIR$/startbootstrap-shop-homepage-gh-pages/includes/database.php" />
         <option value="$PROJECT_DIR$/includes/database.php" />
-        <option value="$PROJECT_DIR$/startbootstrap-shop-item-gh-pages/index.php" />
         <option value="$PROJECT_DIR$/startbootstrap-shop-homepage-gh-pages/index.php" />
+        <option value="$PROJECT_DIR$/startbootstrap-shop-item-gh-pages/index.php" />
       </list>
     </option>
   </component>
@@ -105,7 +114,7 @@
             <path>
               <item name="chaingang" type="b2602c69:ProjectViewProjectNode" />
               <item name="chaingang" type="462c0819:PsiDirectoryNode" />
-              <item name="startbootstrap-shop-homepage-gh-pages" type="462c0819:PsiDirectoryNode" />
+              <item name="startbootstrap-shop-item-gh-pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,13 +162,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3544000" />
+    <option name="totallyTimeSpent" value="4058000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
       <window_info id="Structure" order="1" weight="0.24966443" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -171,7 +180,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -227,17 +236,17 @@
     <entry file="file://$PROJECT_DIR$/startbootstrap-shop-item-gh-pages/includes/database.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/startbootstrap-shop-item-gh-pages/index.php">
+    <entry file="file://$PROJECT_DIR$/startbootstrap-shop-homepage-gh-pages/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        <state relative-caret-position="-306">
+          <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/startbootstrap-shop-homepage-gh-pages/index.php">
+    <entry file="file://$PROJECT_DIR$/startbootstrap-shop-item-gh-pages/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+        <state relative-caret-position="289">
+          <caret line="65" column="65" selection-start-line="65" selection-start-column="65" selection-end-line="65" selection-end-column="65" />
         </state>
       </provider>
     </entry>

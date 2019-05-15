@@ -13,7 +13,7 @@ require_once("includes/database.php");
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Chain gang</title>
+    <title>Detailpagina | Chain Gang</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -28,7 +28,7 @@ require_once("includes/database.php");
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
-        <a class="navbar-brand" href="#">Start Bootstrap</a>
+        <a class="navbar-brand" href="#">Chain Gang</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -46,7 +46,7 @@ require_once("includes/database.php");
                     <a class="nav-link" href="#">Services</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Contact</a>
+                    <a class="nav-link" href="#">Winkelwagen</a>
                 </li>
             </ul>
         </div>
@@ -59,11 +59,11 @@ require_once("includes/database.php");
     <div class="row">
 
         <div class="col-lg-3">
-            <h1 class="my-4">Shop Name</h1>
+            <h3 class="my-4"><img src="http://rijwielw-2.rijwielwebshop.nl/wp-content/uploads/2017/03/Fluit-logo.jpg" height="150" width="250" </h3>
             <div class="list-group">
-                <a href="#" class="list-group-item active">Category 1</a>
-                <a href="#" class="list-group-item">Category 2</a>
-                <a href="#" class="list-group-item">Category 3</a>
+                <a href="#" class="list-group-item active">Mannenfietsen</a>
+                <a href="#" class="list-group-item">Vrouwenfietsen</a>
+                <a href="#" class="list-group-item">Kinderfietsen</a>
             </div>
         </div>
         <!-- /.col-lg-3 -->
