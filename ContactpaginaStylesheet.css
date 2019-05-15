@@ -1,0 +1,46 @@
+body
+{
+    font-family: Arial;
+}
+
+#container
+{
+    width: 1000px;
+    height: 720px;
+    background-color: #dee2e6;
+    margin: 0px;
+    padding: 0px;
+}
+
+#map
+{
+    width: 400px;
+    height: 300px;
+    margin-left: 25px;
+    margin-top: 25px;
+    padding: 0px;
+    float: left;
+}
+
+#infoOnderMap
+{
+    width: 400px;
+    height: 350px;
+    background-color: white;
+    margin-left: 25px;
+    float: left;
+}
+
+#onzichtbareContainerRechts
+{
+    width: 575px;
+    height: 300px;
+    float: left;
+    margin-top: 25px;
+}
+
+h2
+{
+    margin-left: 10px;
+    font-size: 25px;
+}
