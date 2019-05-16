@@ -5,8 +5,8 @@ body
 
 #container
 {
-    width: 1000px;
-    height: 720px;
+    width: 700px;
+    height: 467px;
     background-color: #dee2e6;
     margin: 0px;
     padding: 0px;
@@ -31,12 +31,15 @@ body
     float: left;
 }
 
-#onzichtbareContainerRechts
+#contactOpnemen
 {
-    width: 575px;
+    width: 225px;
     height: 300px;
     float: left;
     margin-top: 25px;
+    margin-left: 25px;
+    background-color: white;
+    margin-right: 25px;
 }
 
 h2
@@ -52,4 +55,9 @@ h2
     margin-top: 5px;
     margin-left: 15px;
     font-size: 13px;
+}
+
+.form
+{
+    margin-left: 15px;
 }
