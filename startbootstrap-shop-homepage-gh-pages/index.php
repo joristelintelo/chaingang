@@ -20,6 +20,7 @@ require_once("includes/database.php");
 
     <!-- Custom styles for this template -->
     <link href="css/shop-homepage.css" rel="stylesheet">
+    <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
 
 </head>
 
@@ -47,6 +48,9 @@ require_once("includes/database.php");
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Winkelwagen</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Account</a>
                 </li>
             </ul>
         </div>
@@ -107,7 +111,7 @@ require_once("includes/database.php");
                         <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
                         <div class="card-body">
                             <h4 class="card-title">
-                                <a href="#">Item One</a>
+                                <a href="#" style="color:black;">Item One</a>
                             </h4>
                             <h5>$24.99</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
@@ -123,7 +127,7 @@ require_once("includes/database.php");
                         <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
                         <div class="card-body">
                             <h4 class="card-title">
-                                <a href="#">Item Two</a>
+                                <a href="#" style="color:black;">Item Two</a>
                             </h4>
                             <h5>$24.99</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.</p>
@@ -139,7 +143,7 @@ require_once("includes/database.php");
                         <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
                         <div class="card-body">
                             <h4 class="card-title">
-                                <a href="#">Item Three</a>
+                                <a href="#" style="color:black;">Item Three</a>
                             </h4>
                             <h5>$24.99</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
@@ -155,7 +159,7 @@ require_once("includes/database.php");
                         <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
                         <div class="card-body">
                             <h4 class="card-title">
-                                <a href="#">Item Four</a>
+                                <a href="#" style="color:black;">Item Four</a>
                             </h4>
                             <h5>$24.99</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
@@ -171,7 +175,7 @@ require_once("includes/database.php");
                         <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
                         <div class="card-body">
                             <h4 class="card-title">
-                                <a href="#">Item Five</a>
+                                <a href="#" style="color:black;">Item Five</a>
                             </h4>
                             <h5>$24.99</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.</p>
@@ -187,7 +191,7 @@ require_once("includes/database.php");
                         <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
                         <div class="card-body">
                             <h4 class="card-title">
-                                <a href="#">Item Six</a>
+                                <a href="#" style="color:black;">Item Six</a>
                             </h4>
                             <h5>$24.99</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
