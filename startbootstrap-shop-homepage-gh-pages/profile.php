@@ -73,13 +73,51 @@ require_once("includes/database.php");
             <h1 style="text-align: center">Profielpagina</h1>
             <?php
             session_start();
-            echo $_SESSION['id'] . "<br?";
-            echo $_SESSION['username'];
+
+            echo "Klantnummer: " . $_SESSION['id'] . "</br>" . "Gebruikersnaam: " . $_SESSION["username"] . "<br>";
+
+
+           /*/ $sql = "SELECT  FROM users";
+            $result = $conn->query($sql);
+
+            ?>
+
+            <table border="1">
+                <tr>
+                    <th>id</th>
+                    <th>Land</th>
+                    <th>Werelddeel</th>
+                    <th>Inwoners</th>
+                </tr>
+
+
+                <?php while($row = $result ->fetch_assoc()){
+                    echo "<tr>";
+
+                    echo "<td> {$row["id"]} </td>";
+
+                    echo "<td> {$row['Vnaam']} </td>";
+                    echo "<td> {$row['Anaam']} </td>";
+                    echo "<td> {$row['Straat']} </td>";
+
+                    echo"</tr>";
+                }
+                ?>
+            </table>
+
+/*/         $query = "SELECT * FROM 'users'";
+            $result = mysqli_query($query);
+
+            $row = mysqli_fetch_row($result);
+
+            echo $row;
+
+
 
             ?>
         </div>
 
-        </div>
+    </div>
     </div>
     <!-- /.row -->
 
