@@ -11,7 +11,10 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
 
-$sql = "SELECT *";
+$sql = "SELECT *, fietsnaam, fietsprijs, fietsbeschrijving, fietspecificatie, Fietsfoto FROM fietsen";
 $result = $conn->query($sql);
+
+
+$conn->close();
 
 ?>
